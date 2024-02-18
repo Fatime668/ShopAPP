@@ -12,18 +12,6 @@ export const advertising = [
     code:"SFCREATION"
   }
 ]
-
-// export const COLOURS = {
-//   white: '#ffffff',
-//   black: '#000000',
-//   green: '#00AC76',
-//   red: '#C04345',
-//   blue: '#0043F9',
-//   backgroundLight: '#F0F0F3',
-//   backgroundMedium: '#B9B9B9',
-//   backgroundDark: '#777777',
-// };
-
 export const Items = [
   {
     id: 1,
@@ -43,9 +31,9 @@ export const Items = [
     productImage: require('../database/images/products/nike2.png'),
     isAvailable: true,
     productImageList: [
-      require('../database/images/products/Mi1.png'),
-      require('../database/images/products/Mi2.png'),
-      require('../database/images/products/Mi3.png'),
+      require('../database/images/products/element16.png'),
+      require('../database/images/products/element17.png'),
+      require('../database/images/products/element18.png'),
     ],
   },
   {
@@ -92,9 +80,9 @@ export const Items = [
     productImage: require('../database/images/products/jordan.png'),
     isAvailable: true,
     productImageList: [
-      require('../database/images/accessories/boatairpods1.png'),
-      require('../database/images/accessories/boatairpods2.png'),
-      require('../database/images/accessories/boatairpods3.png'),
+      require('../database/images/products/element12.png'),
+      require('../database/images/products/element13.jpeg'),
+      require('../database/images/products/element14.png'),
     ],
   },
   {
@@ -116,9 +104,9 @@ export const Items = [
     productImage: require('../database/images/products/nike2.png'),
     isAvailable: true,
     productImageList: [
-      require('../database/images/accessories/boatbassheads1.png'),
-      require('../database/images/accessories/boatbassheads2.png'),
-      require('../database/images/accessories/boatbassheads3.png'),
+      require('../database/images/products/element10.png'),
+      require('../database/images/products/element11.png'),
+      require('../database/images/products/element12.png'),
     ],
   },
   {
@@ -140,9 +128,9 @@ export const Items = [
     productImage: require('../database/images/products/jordan2.png'),
     isAvailable: false,
     productImageList: [
-      require('../database/images/accessories/boatrockerz1.png'),
-      require('../database/images/accessories/boatrockerz2.png'),
-      require('../database/images/accessories/boatrockerz3.png'),
+      require('../database/images/products/element7.jpeg'),
+      require('../database/images/products/element8.png'),
+      require('../database/images/products/element9.png'),
     ],
   },
   {
@@ -164,9 +152,9 @@ export const Items = [
     productImage: require('../database/images/products/nike3.png'),
     isAvailable: true,
     productImageList: [
-      require('../database/images/accessories/boultairbass1.png'),
-      require('../database/images/accessories/boultairbass2.png'),
-      require('../database/images/accessories/boultairbass3.png'),
+      require('../database/images/products/element1.jpeg'),
+      require('../database/images/products/element2.png'),
+      require('../database/images/products/element3.png'),
     ],
   },
   {
@@ -187,9 +175,9 @@ export const Items = [
     productImage: require('../database/images/products/nike.png'),
     isAvailable: true,
     productImageList: [
-      require('../database/images/accessories/boultairbass1.png'),
-      require('../database/images/accessories/boultairbass2.png'),
-      require('../database/images/accessories/boultairbass3.png'),
+      require('../database/images/products/element4.jpeg'),
+      require('../database/images/products/element5.png'),
+      require('../database/images/products/element6.png'),
     ],
   },
 ];
