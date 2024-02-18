@@ -1,11 +1,11 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet, Text,SafeAreaView, View } from 'react-native'
 import React from 'react'
 
 const FavoriteScreen = () => {
   return (
-    <View>
+    <SafeAreaView>
       <Text>FavoriteScreen</Text>
-    </View>
+    </SafeAreaView>
   )
 }
 

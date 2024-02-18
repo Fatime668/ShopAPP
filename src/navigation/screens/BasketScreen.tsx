@@ -1,11 +1,11 @@
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet,SafeAreaView , Text, View } from 'react-native'
 import React from 'react'
 
 const BasketScreen = () => {
   return (
-    <View>
+    <SafeAreaView>
       <Text>BasketScreen</Text>
-    </View>
+    </SafeAreaView>
   )
 }
 
